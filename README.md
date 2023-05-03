@@ -7,6 +7,10 @@ See: https://julienpascal.github.io/post/asg/
 
 Main file.
 
+## ASG_Python.ipynb
+
+Python version. Still work in progress.
+
 ## utils.ipynb
 
 Helper functions.
